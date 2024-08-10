@@ -26,7 +26,7 @@ p {
 }
 .hero {
   height: 95vh;
-  background-image: url(/assets/image1.jpg);
+  background-image: url(./assets/image1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
